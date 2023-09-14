@@ -1,2 +1,3 @@
 # first_r_repo
-This is a repository for working with R
+
+Hello World! This is my first repository on github
